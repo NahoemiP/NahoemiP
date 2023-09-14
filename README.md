@@ -3,7 +3,7 @@
 <h2>👨‍💻 Azure Cloud Administrator Projects</h2>
 
 - <b>[Implementing Secure Cloud Governance at “Contoso Healthcare”](https://github.com/NahoemiP/Microsoft-Azure-Administrator-Projects/blob/71ae648b88633dd7e3fe125301470b4a64d085d9/Implementing%20Secure%20Cloud%20Governance%20at%20%E2%80%9CContoso%20Healthcare%E2%80%9D.pdf)</b>
-  - 
+  
 
 <h2>📊 Data Analyst Projects</h2>
 
