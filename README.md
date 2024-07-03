@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Python Projects</h2>
 
-- <b>["A rock, scissorts, and paper game"]</b>
+- <b>[Project 1: Rock, Scissors, and Paper Game](https://github.com/NahoemiP/Rock-Scissors-and-Paper-Game)</b>
 
 
 
