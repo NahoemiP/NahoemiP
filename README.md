@@ -4,7 +4,7 @@
 
 - <b>[Project 1: Rock, Scissors, and Paper Game](https://github.com/NahoemiP/Python-Projects/blob/ee574278f9e637c949945f5c86e29a6716d99d53/Rock%2C%20Paper%2C%20Scissors%20Game.py)</b>
 - <b>[Project 2: Health Smart Quiz](https://github.com/NahoemiP/Python-Projects/blob/ee574278f9e637c949945f5c86e29a6716d99d53/Health%20Smart%20Quiz.ipynb)</b>
-
+- <b>[Project 3: Blood Pressure Tracker](https://github.com/NahoemiP/Python-Projects/blob/6a58db69a0a5655557aad3350dc79814dbcc23d4/Blood%20Pressure%20Tracker.ipynb)</b>
 
 
   
