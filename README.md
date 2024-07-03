@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Python Projects</h2>
 
-- <b>[Project 1: Rock, Scissors, and Paper Game](https://github.com/NahoemiP/Rock-Scissors-and-Paper-Game)</b>
-
+- <b>[Project 1: Rock, Scissors, and Paper Game](https://github.com/NahoemiP/Python-Projects/blob/ee574278f9e637c949945f5c86e29a6716d99d53/Rock%2C%20Paper%2C%20Scissors%20Game.py)</b>
+- <b>[Project 2: Health Smart Quiz](https://github.com/NahoemiP/Python-Projects/blob/ee574278f9e637c949945f5c86e29a6716d99d53/Health%20Smart%20Quiz.ipynb)</b>
 
 
 
