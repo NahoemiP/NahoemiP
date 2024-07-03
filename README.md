@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Python Projects</h2>
 
-- <b>[A rock, scissorts, and paper game] y</b>
+- <b>["A rock, scissorts, and paper game"]</b>
 
 
 
