@@ -12,11 +12,13 @@ A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Pyth
 
 <h2>📊 Data Analyst/Scientist Projects</h2>
 
+- <b>[Culinary Workshop Planning](https://github.com/NahoemiP/Python-Projects/blob/3d2f24ecef097c2ee7d02a7f1fc38d22d29f8d5f/Culinary%20Workshop%20Planning.ipynb) </b>
+
 <h2>👨‍💻 Python Projects</h2>
 
-- <b>[Project 1: Rock, Scissors, and Paper Game](https://github.com/NahoemiP/Python-Projects/blob/ee574278f9e637c949945f5c86e29a6716d99d53/Rock%2C%20Paper%2C%20Scissors%20Game.py)</b>
-- <b>[Project 2: Health Smart Quiz](https://github.com/NahoemiP/Python-Projects/blob/ee574278f9e637c949945f5c86e29a6716d99d53/Health%20Smart%20Quiz.ipynb)</b>
-- <b>[Project 3: Blood Pressure Tracker](https://github.com/NahoemiP/Python-Projects/blob/6a58db69a0a5655557aad3350dc79814dbcc23d4/Blood%20Pressure%20Tracker.ipynb)</b>
+- <b>[Rock, Scissors, and Paper Game](https://github.com/NahoemiP/Python-Projects/blob/ee574278f9e637c949945f5c86e29a6716d99d53/Rock%2C%20Paper%2C%20Scissors%20Game.py)</b>
+- <b>[Health Smart Quiz](https://github.com/NahoemiP/Python-Projects/blob/ee574278f9e637c949945f5c86e29a6716d99d53/Health%20Smart%20Quiz.ipynb)</b>
+- <b>[Blood Pressure Tracker](https://github.com/NahoemiP/Python-Projects/blob/6a58db69a0a5655557aad3350dc79814dbcc23d4/Blood%20Pressure%20Tracker.ipynb)</b>
 
 <h2>:scroll: Certifications</h2>
 
