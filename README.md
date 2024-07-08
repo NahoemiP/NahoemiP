@@ -12,7 +12,7 @@ A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Pyth
 
 <h2>📊 Data Analyst/Scientist Projects</h2>
 
-- <b>[Culinary Workshop Planning](https://github.com/NahoemiP/Python-Projects/blob/3d2f24ecef097c2ee7d02a7f1fc38d22d29f8d5f/Culinary%20Workshop%20Planning.ipynb) </b>
+- <b></b>
 
 <h2>👨‍💻 Python Projects</h2>
 
