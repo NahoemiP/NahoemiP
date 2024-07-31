@@ -25,7 +25,7 @@ A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Pyth
 
 <h2>😄 Fun facts: </h2>
 
-- It only took one course for me to fall in love with Data Analysis.
+- It only took me one course to fall in love with Data Analysis.
 - Data analytics traces its roots back to the early 19th century when Florence Nightingale used statistical analysis to advocate for better healthcare practices during the Crimean War, pioneering the use of data visualization for decision-making.
 - Every data point represents a living person.
 
