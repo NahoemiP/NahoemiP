@@ -13,6 +13,7 @@ A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Pyth
 <h2>📊 Data Analyst/Scientist Projects</h2>
 
 - <b>[Culinary Workshop Planning](https://github.com/NahoemiP/Python-Projects/blob/b0e8a1fc70cd4e1de4b36e569ef22d932f3eb15c/Culinary%20Workshop%20Planning.ipynb)</b>
+- <b>[Analysis of School Status Changes During COVID-19: Economic and Demographic Influences Across Countries](https://github.com/NahoemiP/Python-Projects/blob/5685ada19934424341319cfc8b4427ff860923ba/Analysis%20of%20School%20Status%20Changes%20During%20(COVID-19)-%20Economic%20and%20Demographic%20Influences%20Across%20Countries.ipynb)<b>
 
 <h2>👨‍💻 Python Projects</h2>
 
