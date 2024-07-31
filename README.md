@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nahoemi! 👋</h1>
 
-A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Python, SPSS, SQL, PowerBI, and Tableau. I specialize in leveraing data-driven insights to drive strategic decision-making and optimize business performance.
+A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Python, SPSS, SQL, PowerBI, and Tableau. I specialize in leveraging data-driven insights to drive strategic decision-making and optimize business performance.
 
 <b>About Me:</b>
 
