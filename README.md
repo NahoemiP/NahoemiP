@@ -15,6 +15,7 @@ A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Pyth
 - <b>[Culinary Workshop Planning](https://github.com/NahoemiP/Python-Projects/blob/b0e8a1fc70cd4e1de4b36e569ef22d932f3eb15c/Culinary%20Workshop%20Planning.ipynb)</b>
 - <b>[Analysis of School Status Changes During COVID-19: Economic and Demographic Influences Across Countries](https://github.com/NahoemiP/Python-Projects/blob/5685ada19934424341319cfc8b4427ff860923ba/Analysis%20of%20School%20Status%20Changes%20During%20(COVID-19)-%20Economic%20and%20Demographic%20Influences%20Across%20Countries.ipynb)<b>
 - <b>[Comprehensive Analysis of Motor Vehicle Collisions: Injury Patterns, Causes, and Trends](https://github.com/NahoemiP/Python-Projects/blob/79e967c3ea37ec3c2381d9f3024fee9c12f7c290/Comprehensive%20Motor%20Vehicle%20Collisions.ipynb)<b>
+- <b>[Predictive Analysis of Economi and Human Development Metrics Across Countries](https://github.com/NahoemiP/Python-Projects/blob/1c23fc6d480c15ff624af021b0919b57298a30ee/Predictive%20Analysis%20of%20Economic%20and%20Human%20Development%20Metrics%20Across%20Countries.ipynb)<b>
 
 <h2>👨‍💻 Python Projects</h2>
 
