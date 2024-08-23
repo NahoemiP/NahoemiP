@@ -27,6 +27,7 @@ A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Pyth
 <h2>:scroll: Certifications</h2>
 
 - <b>[PowerBI Dataflows Essential Training](https://github.com/NahoemiP/Certification/blob/0315920115bb583eef8ea53ed1932dd7f4f89a91/CertificateOfCompletion_Power%20BI%20Dataflows%20Essential%20Training.pdf)<b>
+- <b>[Scrum Master](https://github.com/NahoemiP/Certification/blob/0315920115bb583eef8ea53ed1932dd7f4f89a91/Scrum%20Certification%20Nahoemi%20Pablo.pdf)<b>
 
 <h2>😄 Fun facts: </h2>
 
