@@ -16,6 +16,7 @@ A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Pyth
 - <b>[Analysis of School Status Changes During COVID-19: Economic and Demographic Influences Across Countries](https://github.com/NahoemiP/Python-Projects/blob/5685ada19934424341319cfc8b4427ff860923ba/Analysis%20of%20School%20Status%20Changes%20During%20(COVID-19)-%20Economic%20and%20Demographic%20Influences%20Across%20Countries.ipynb)<b>
 - <b>[Comprehensive Analysis of Motor Vehicle Collisions: Injury Patterns, Causes, and Trends](https://github.com/NahoemiP/Python-Projects/blob/79e967c3ea37ec3c2381d9f3024fee9c12f7c290/Comprehensive%20Motor%20Vehicle%20Collisions.ipynb)<b>
 - <b>[Predictive Analysis of Economi and Human Development Metrics Across Countries](https://github.com/NahoemiP/Python-Projects/blob/1c23fc6d480c15ff624af021b0919b57298a30ee/Predictive%20Analysis%20of%20Economic%20and%20Human%20Development%20Metrics%20Across%20Countries.ipynb)<b>
+- <b>[Navigating the Journey: An Analytical Deep Dive into the Custody and Care of Unaccompanied Children in the U.S. (Feb 2024 - Present)](https://github.com/NahoemiP/Python-Projects/blob/1c23fc6d480c15ff624af021b0919b57298a30ee/An%20Analytical%20Deep%20Dive%20into%20the%20Custody%20and%20Care%20of%20Unaccompanied%20Children%20in%20the%20U.S.ipynb)<b>
 
 <h2>👨‍💻 Python Projects</h2>
 
