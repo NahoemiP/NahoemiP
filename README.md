@@ -28,6 +28,7 @@ A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Pyth
 
 - <b>[PowerBI Dataflows Essential Training](https://github.com/NahoemiP/Certification/blob/0315920115bb583eef8ea53ed1932dd7f4f89a91/CertificateOfCompletion_Power%20BI%20Dataflows%20Essential%20Training.pdf)<b>
 - <b>[Scrum Master](https://github.com/NahoemiP/Certification/blob/0315920115bb583eef8ea53ed1932dd7f4f89a91/Scrum%20Certification%20Nahoemi%20Pablo.pdf)<b>
+- <b>[Data AI: Advanced Data Analytics with Power BI](https://github.com/NahoemiP/Certification/blob/4a2c78719bc687e3db343cd5e313b21839794f3a/Advanced%20Data%20Analytics%20with%20Power%20BI.pdf)<b>
 
 <h2>😄 Fun facts: </h2>
 
