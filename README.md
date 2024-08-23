@@ -26,6 +26,8 @@ A Data Analyst/Scientist with a Master's degree and 5 years of expertise in Pyth
 
 <h2>:scroll: Certifications</h2>
 
+- <b>[PowerBI Dataflows Essential Training](https://github.com/user-attachments/assets/8fefd105-ac51-428d-a806-975a59e0231a)<b>
+
 <h2>😄 Fun facts: </h2>
 
 - It only took me one course to fall in love with Data Analysis.
